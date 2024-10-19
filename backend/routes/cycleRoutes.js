@@ -1,7 +1,7 @@
-const express = require('express');
+const express = require("express");
 const router = express.Router();
-const cycleController = require('../controllers/cycleController');
+const cycleController = require("../controllers/cycleController");
 
-router.post('/log', cycleController.logCycle);
+router.post("/log", cycleController.logCycle);
 
 module.exports = router;

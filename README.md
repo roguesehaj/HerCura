@@ -1,7 +1,7 @@
-<h1>Crimson Cove ♡</h1>
+<h1>HerCura ♡</h1>
 
 <p>
-  Crimson Cove is a personal period care assistant that helps users track their menstrual cycle, manage symptoms, and receive personalized wellness support.
+  HerCura is a personal period care assistant that helps users track their menstrual cycle, manage symptoms, and receive personalized wellness support.
 </p>
 
 <h2>Features</h2>
